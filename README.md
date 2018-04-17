@@ -1,10 +1,10 @@
 # mowItNow
 Technical Test
 
-Run or debug the MowerControllerTest class to assert that the expected functioning and results are met.
+Run or debug the MowerControllerTest class to assert that the expected operation and results are met.
 
-The test for the exemple given in the tecnical test is called myTechnicalTest.
+For the given example (from the assessment), you will find the same scenario at a test called myTechnicalTest.
 
-Thank you
+Thank you for your time!
 
 
